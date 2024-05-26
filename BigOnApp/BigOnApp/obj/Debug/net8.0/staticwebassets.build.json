@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a+j6D61ySz3P2bLI4fzGSroylnSxzGZE5lTaE4NEnsU=",
+  "Hash": "O/9qIBdbXSWgCOWJuhGUOZLarp3qKsIm+xWrcODK2rg=",
   "Source": "BigOnApp",
   "BasePath": "_content/BigOnApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BigOnApp\\wwwroot",
       "Source": "BigOnApp",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\animate.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\animate.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/animate.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\default.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\default.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/default.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\default.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-2.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-2.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/home-2.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\home-2.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-3.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-3.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/home-3.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\home-3.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-4.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\home-4.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/home-4.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\home-4.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_glass_75_d0e5f5_1x400.html",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_glass_85_dfeffc_1x400.html",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_glass_95_fef1ec_1x400.html",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.html",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.html",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.html",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_217bc0_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_217bc0_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_217bc0_256x240.html",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_217bc0_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_2e83ff_256x240.html",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_469bdd_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_469bdd_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_469bdd_256x240.html",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_469bdd_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_6da8d5_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_6da8d5_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_6da8d5_256x240.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_6da8d5_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_cd0a0a_256x240.html",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_d8e7f3_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_d8e7f3_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_d8e7f3_256x240.html",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_d8e7f3_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_f9bd01_256x240.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\images\\ui-icons_f9bd01_256x240.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/images/ui-icons_f9bd01_256x240.html",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\ui-icons_f9bd01_256x240.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\jquery.fancybox.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\jquery.fancybox.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/jquery.fancybox.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\jquery.fancybox.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\jquery-ui.min.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\meanmenu.min.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\meanmenu.min.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/meanmenu.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\meanmenu.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\nivo-slider.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\nivo-slider.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/nivo-slider.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-slider.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\owl.carousel.min.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\owl.video.play.html",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\owl.video.play.html",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/owl.video.play.html",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.video.play.html"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\responsive.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\slick.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\slick.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/slick.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\css\\style.css",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/1.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\10.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\10.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/10.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\11.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\11.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/11.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\11.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\12.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\12.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/12.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\12.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\13.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\13.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/13.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\13.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\14.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\14.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/14.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\14.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/2.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\3.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\3.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/3.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\4.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\4.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/4.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\5.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\5.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/5.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\6.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\6.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/6.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\7.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\7.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/7.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\8.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\8.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/8.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\9.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\banner\\9.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/banner/9.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/1.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/2.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\3.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/3.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\4.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/4.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\5.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/5.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\blog\\6.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/blog/6.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\1.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\1.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/brand/1.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand\\1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\2.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\2.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/brand/2.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand\\2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\3.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\3.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/brand/3.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand\\3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\4.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\brand\\4.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/brand/4.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand\\4.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/categorie/1.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\categorie\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/categorie/2.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\categorie\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\3.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\3.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/categorie/3.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\categorie\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\4.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\categorie\\4.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/categorie/4.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\categorie\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\footer\\1.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\footer\\1.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/footer/1.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\footer\\1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\1.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\1.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/1.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\2.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\2.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/2.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\3.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\3.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/3.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\4.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\4.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/4.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\4.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\5.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\5.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/5.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\5.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\favicon.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\icon\\favicon.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/icon/favicon.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icon\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/logo/logo.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo2.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo2.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/logo/logo2.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo3.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\logo\\logo3.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/logo/logo3.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\menu\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\menu\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/menu/1.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\menu\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\menu\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\menu\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/menu/2.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\menu\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/1.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\10.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\10.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/10.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\11.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\11.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/11.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\11.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\12.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\12.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/12.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\12.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\13.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\13.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/13.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\13.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\14.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\14.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/14.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\14.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\15.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\15.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/15.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\15.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\16.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\16.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/16.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\16.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\17.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\17.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/17.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\17.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\18.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\18.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/18.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\18.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\19.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\19.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/19.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\19.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/2.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\20.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\20.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/20.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\20.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\21.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\21.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/21.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\21.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\22.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\22.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/22.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\22.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\23.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\23.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/23.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\23.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\3.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\3.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/3.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\4.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\4.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/4.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\5.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\5.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/5.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\6.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\6.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/6.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\7.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\7.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/7.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\8.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\8.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/8.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\9.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\products\\9.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/products/9.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\products\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\1.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/1.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\2.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/2.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\3.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/3.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\4.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/4.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\5.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/5.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\6.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\6.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/6.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\7.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/7.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\8.jpg",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\slider\\8.jpg",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/slider/8.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\1.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\1.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/testmonial/1.png",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testmonial\\1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\2.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\2.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/testmonial/2.png",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testmonial\\2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\3.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\testmonial\\3.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/testmonial/3.png",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testmonial\\3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\1.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\1.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/1.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\2.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\2.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/2.png",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\3.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\3.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/3.png",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\4.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\4.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/4.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\4.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\5.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\5.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/5.png",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\5.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\6.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\6.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/6.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\6.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\7.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\7.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/7.png",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\7.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\8.png",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\img\\vertical-menu\\8.png",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/img/vertical-menu/8.png",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vertical-menu\\8.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\ajax-mail.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/ajax-mail.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.countdown.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery.countdown.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.countdown.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.fancybox.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.fancybox.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery.fancybox.min.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.fancybox.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.meanmenu.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.meanmenu.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery.meanmenu.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.meanmenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.nivo.slider.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.nivo.slider.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery.nivo.slider.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.nivo.slider.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.scrollUp.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery.scrollUp.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery.scrollUp.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.scrollUp.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\main.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\plugins.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\plugins.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/plugins.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\slick.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\slick.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/slick.min.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/vendor/jquery-1.12.4.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\jquery-migrate-1.4.1.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\jquery-migrate-1.4.1.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/vendor/jquery-migrate-1.4.1.min.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery-migrate-1.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/vendor/modernizr-2.8.3.min.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\wow.min.js",
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\assets\\js\\wow.min.js",
       "SourceId": "BigOnApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
       "BasePath": "_content/BigOnApp",
       "RelativePath": "assets/js/wow.min.js",
       "AssetKind": "All",
@@ -2542,6 +2542,101 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\wow.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\libs\\toastr.js\\toastr.css",
+      "SourceId": "BigOnApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "BasePath": "_content/BigOnApp",
+      "RelativePath": "libs/toastr.js/toastr.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\toastr.js\\toastr.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\libs\\toastr.js\\toastr.js.map",
+      "SourceId": "BigOnApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "BasePath": "_content/BigOnApp",
+      "RelativePath": "libs/toastr.js/toastr.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\toastr.js\\toastr.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\libs\\toastr.js\\toastr.min.css",
+      "SourceId": "BigOnApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "BasePath": "_content/BigOnApp",
+      "RelativePath": "libs/toastr.js/toastr.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\libs\\toastr.js\\toastr.min.js",
+      "SourceId": "BigOnApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "BasePath": "_content/BigOnApp",
+      "RelativePath": "libs/toastr.js/toastr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\libs\\toastr.js\\toastradditonal.js",
+      "SourceId": "BigOnApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BigOnMVC\\BigOnApp\\BigOnApp\\wwwroot\\",
+      "BasePath": "_content/BigOnApp",
+      "RelativePath": "libs/toastr.js/toastradditonal.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\toastr.js\\toastradditonal.js"
     }
   ]
 }

@@ -17,6 +17,8 @@ public class AppDbContext : DbContext
     public DbSet<Color> Colors { get; set; }
     public DbSet<Brand> Brands { get; set; }
     public DbSet<Tag> Tags { get; set; }
+    public DbSet<Subscriber> Subscribers { get; set; }
+
 
 }
 
