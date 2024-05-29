@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigOnApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed208433f937af77bcd1a385a976bd69313aaeca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ec7e760074747fa9dc7c8c6c676573bdefafe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigOnApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigOnApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
