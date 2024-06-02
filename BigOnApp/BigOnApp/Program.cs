@@ -16,6 +16,8 @@ builder.Services.Configure<EmailOption>(cfg =>
     builder.Configuration.GetSection("AccountConfirm").Bind(cfg);
 });
 builder.Services.AddSingleton<IEmailService, EmailService>();
+builder.Services.AddSingleton<IDateTimeService, UtcDateTimaService>();
+builder.Services.AddScoped<IIdentityService, IdentityService>();
 
 var app = builder.Build();
 app.MapControllerRoute(

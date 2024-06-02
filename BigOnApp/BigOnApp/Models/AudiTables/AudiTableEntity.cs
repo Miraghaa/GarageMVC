@@ -1,6 +1,8 @@
-﻿namespace BigOnApp.Models.AudiTables;
+﻿using BigOnApp.Helpers.Services.Interfaces;
 
-public abstract class AudiTableEntity
+namespace BigOnApp.Models.AudiTables;
+
+public abstract class AudiTableEntity : IAudiTableEntity
 {
     public int CreatedBy { get; set; }
     public DateTime CreatedAt { get; set; }
